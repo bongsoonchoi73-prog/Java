@@ -1,8 +1,0 @@
-package com.kh.chep02.model.info;
-
-public class JjamBbong {
-	public void makeJjamBbong() {
-		System.out.println("짬뽕 나왔습니다");
-	}
-
-}
